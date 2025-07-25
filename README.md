@@ -55,4 +55,4 @@ Researcher
 ## 📜 License
 
 This project is intended for academic and educational purposes.  
-© 2025 [Your Name]. All rights reserved.
+© 2025 [Prakhar Shukla]. All rights reserved.
